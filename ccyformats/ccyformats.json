@@ -1,0 +1,32 @@
+{
+	"EUR":{
+		"Name": "Euro",
+		"Symbol": "\u20AC",
+		"ISO4217Code": "EUR",
+		"ISO4217Num": "978",
+		"majorname": "euro",
+		"minorname": "cent",
+		"decimals": "2",
+		"format": "#.###,##"
+		},
+	"USD":{
+		"Name": "US Dollar",
+		"Symbol": "\u0024",
+		"ISO4217Code": "USD",
+		"ISO4217Num": "840",
+		"majorname": "dollar",
+		"minorname": "cent",
+		"decimals": "2",
+		"format": "#,###.##"
+		},
+	"INR":{
+		"Name": "Indian Rupee",
+		"Symbol": "\u20B9",
+		"ISO4217Code": "INR",
+		"ISO4217Num": "357",
+		"majorname": "rupee",
+		"minorname": "paise",
+		"decimals": "2",
+		"format": "#,##,###.##"
+		}
+}
